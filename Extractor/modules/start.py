@@ -106,7 +106,7 @@ button1 = [
                     InlineKeyboardButton("👑 Sᴛᴜᴅʏ IQ", callback_data="iq_")
                 ],
                 [
-                    #InlineKeyboardButton("👑 Kᴅ Cᴀᴍᴘᴜs", callback_data="kdlive_"),
+                    InlineKeyboardButton("👑 Kᴅ Cᴀᴍᴘᴜs", callback_data="kdlive_"),
                     # InlineKeyboardButton("👑 Rᴀɴᴋᴇʀs Gᴜʀᴜᴋᴜʟ", callback_data="maintainer_")
                     # InlineKeyboardButton("👑 CDS Jᴏᴜʀɴᴇʏ", callback_data="cds_journey")
                 ],
