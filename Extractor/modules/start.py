@@ -95,7 +95,7 @@ button1 = [
                     #InlineKeyboardButton("👑 Aᴅᴅᴀ 𝟸𝟺𝟽", callback_data="adda_")
                 ],
                 [
-                    #InlineKeyboardButton("👑 Kʜᴀɴ Gs", callback_data="khan_") 
+                    InlineKeyboardButton("👑 Kʜᴀɴ Gs", callback_data="khan") 
                 ],
                 [
                     InlineKeyboardButton("👑 CʟᴀssPʟᴜs", callback_data="classplus_"),
